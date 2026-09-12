@@ -1,0 +1,16 @@
+{
+  "routes": [
+    {
+      "route": "/*",
+      "redirect": "https://ww234.kg1088.net",
+      "statusCode": 301,
+      "hostnames": ["kg1088.net"]
+    },
+    {
+      "route": "/*",
+      "redirect": "https://bbb.com",
+      "statusCode": 301,
+      "hostnames": ["bbb.com"]
+    }
+  ]
+}
