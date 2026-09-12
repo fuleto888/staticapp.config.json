@@ -1,0 +1,2 @@
+# staticapp.config.json
+azureAPP
